@@ -4,7 +4,6 @@ use 5.012;
 use strict;
 use warnings;
 
-use DDP;
 use Config::Simple;
 use Daemon::Control;
 use POSIX;

@@ -4,8 +4,6 @@ use Test::More tests => 8;
 use File::Slurp;
 use POSIX;
 
-use DDP;
-
 my $t = time;
 
 $ENV{_SMD_pid} = 't/_smd_t_pid_'.$t;
