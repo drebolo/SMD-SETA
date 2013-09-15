@@ -1,7 +1,8 @@
-SMD-SETA
-========
+SMD-SETA *system_monitor_d*
+===========================
 
-*system_monitor_d* - A small daemon to check system status
+A small daemon to check system status
+
 
 Install
 -------
